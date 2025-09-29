@@ -1,0 +1,10 @@
+cat > requirements.txt <<'REQ'
+transformers>=4.41
+torch>=2.1
+sentence-transformers>=2.7
+gradio>=4.44
+pandas>=2.1
+numpy>=1.26
+sentencepiece
+protobuf
+REQ
