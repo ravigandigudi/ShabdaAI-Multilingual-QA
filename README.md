@@ -53,15 +53,19 @@ The app is fully **offline, local-first, and API-free**, with a public demo depl
 
 ---
 
-## 🖼️ Screenshots
-### 1. Context-based Q&A (Telugu → English)  
-![Context Q&A Screenshot](screenshots/context_qa.png)  
+## Screenshots
 
-### 2. Auto-translation (English → Telugu)  
-![Auto Translation Screenshot](screenshots/auto_translation.png)  
+### Auto-translation (Telugu → English)
+The app automatically translates both the **inputs** (question/context) and the **answers**, allowing seamless interaction between Telugu and English.
 
-### 3. No-context retrieval + answer  
-![No Context Screenshot](screenshots/no_context.png)  
+![Auto Translation Screenshot](Screenshot%202025-09-29%20at%203.02.46%20AM.png)
+
+---
+
+### Context-based Answering
+When context is provided, the model answers directly from the passage, in **Telugu and English** side-by-side.
+
+![Context-based Answer Screenshot](Screenshot%202025-09-29%20at%203.02.58%20AM.png)
 
 ---
 
